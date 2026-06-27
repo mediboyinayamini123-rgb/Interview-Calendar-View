@@ -10,7 +10,7 @@ Interview Calendar View is a frontend web application developed using React.js a
 
 * Interactive monthly calendar
 * Scheduled interview cards
-* Interview filtering
+* Interviewer filtering
 * Automatic Scheduled and Completed status
 * Month navigation
 * Responsive user interface
@@ -113,12 +113,7 @@ Users can:
 
 ## Interview Filtering
 
-Filter interviews by:
-
-* All
-* Technical
-* HR
-* Final Round
+Filter interviewer by interviewer name.
 
 ## Automatic Status Update
 
