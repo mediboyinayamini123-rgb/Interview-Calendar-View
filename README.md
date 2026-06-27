@@ -40,7 +40,7 @@ Interview Calendar View is a frontend web application developed using React.js a
 ## Step 1: Clone Repository
 
 ```bash id="fjlwm7"
-git clone <repository-link>
+git clone <https://github.com/mediboyinayamini123-rgb/Interview-Calendar-View/tree/main>
 ```
 
 ---
